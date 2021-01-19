@@ -1,0 +1,35 @@
+#+TITLE: Aditya Thakral
+#+DESCRIPTION: TODO: <Sample description>
+#+HTML_DOCTYPE: html5
+#+HTML_POSTAMBLE: nil
+#+HTML_HEAD: <script src="./test.js"/>
+
+#+OPTIONS: toc:nil title:nil author:nil num:nil html-postamble:nil
+
+* Hey, I'm Adi
+
+I'm a senior at the University of Waterloo, studying computer science.
+
+** Some recent ... adventures?
+
+*** Owning you data
+
+Blah
+
+#+begin_src javascript
+class Hello {
+  #hello = "world";
+
+  get state() {
+    return hello;
+  }
+}
+#+end_src
+
+#+begin_export html
+<div style="background: red; border-radius: 50%;">
+  WOW HTML
+</div>
+#+end_export
+
+Testing this @@html:<mark>@@Mark@@html:</mark>@@ block
