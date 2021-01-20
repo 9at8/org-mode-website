@@ -24,6 +24,8 @@ class Hello {
     return hello;
   }
 }
+
+console.log('hello')
 #+end_src
 
 #+begin_export html
@@ -32,4 +34,4 @@ class Hello {
 </div>
 #+end_export
 
-Testing this @@html:<mark>@@Mark@@html:</mark>@@ block
+~Testing~ this @@html:<mark>@@Mark@@html:</mark>@@ block

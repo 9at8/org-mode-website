@@ -1,1 +1,1 @@
-setTimeout(() => alert('JS works!!'), 2000);
+setTimeout(() => console.log('JS works!!'), 2000);
