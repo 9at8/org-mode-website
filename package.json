@@ -1,0 +1,15 @@
+{
+  "name": "org-mode-website",
+  "version": "0.0.1",
+  "description": "Make websites from org-mode",
+  "repository": "https://github.com/9at8/org-mode-website",
+  "author": "Aditya Thakral <github@9at8.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "build": "echo 'NOT IMPLEMENTED'",
+    "start": "echo 'NOT IMPLEMENTED'"
+  }
+}

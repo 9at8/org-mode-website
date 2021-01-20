@@ -2,7 +2,7 @@
 #+DESCRIPTION: TODO: <Sample description>
 #+HTML_DOCTYPE: html5
 #+HTML_POSTAMBLE: nil
-#+HTML_HEAD: <script src="./test.js"/>
+#+HTML_HEAD: <script src="./index.js"/>
 
 #+OPTIONS: toc:nil title:nil author:nil num:nil html-postamble:nil
 
